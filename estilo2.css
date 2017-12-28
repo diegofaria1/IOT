@@ -17,6 +17,10 @@ div a strong {
 	border-radius: 6px;
 	}
 
+.divligada {
+	opacity: 0.0;background: black;
+}
+
 .divdesligada {
 	opacity: 0.9;background: black;
 }
