@@ -1,0 +1,385 @@
+a {
+	text-align: center;
+	cursor: pointer;
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}	
+
+div a strong {
+	background-color: blue;
+	color: white;
+	border-radius: 6px;
+	}
+
+.divligada {
+	opacity: 0.0;background: black;
+}
+
+.divdesligada {
+	opacity: 0.9;background: black;
+}
+
+@media screen and (max-width: 1200px) and (min-width: 1px)  and (orientation: portrait){
+
+#title {
+    width:auto;
+    margin-left: 10px;
+}
+
+#imagem {
+	height: 20px;
+    width: 140px;
+}
+
+.posicaogrid {height: 230px; margin-top: 5px;}
+.posicaolinha {margin-top: 15px; height: 70px; margin-left: 1px; margin-right: 1px;}
+.posicaolinha2 {height: 150px; margin-left: 1px; margin-right: 1px;}
+.div {height: 200px; }
+.divinterna {width: auto; height: 65px;}
+
+.posicaolinha .div1{
+height: 70px;
+width : 50px;	
+}
+
+.posicaolinha .div2{
+height: 70px;
+width : 45px;	
+}
+
+.posicaolinha .div3{
+height: 70px;
+width : 50px;	
+}
+
+.posicaolinha .div4{
+height: 70px;
+width : 40px;	
+}
+
+.posicaolinha .div5{
+height: 70px;
+width : 45px;	
+}
+
+.posicaolinha .div6{
+height: 70px;
+width : 50px;	
+}
+
+/* posicaolinha2 divs*/
+
+.posicaolinha2 .div1{
+height: 130px;
+width : 50px;	
+}
+.posicaolinha2 .div2{
+height: 130px;
+width : 45px;	
+}
+.posicaolinha2 .div3{
+height: 130px;
+width : 45px;	
+}
+.posicaolinha2 .div4{
+height: 130px;
+width : 40px;	
+}
+
+.posicaolinha2 .div5{
+margin-left: 0px;	
+height: 130px;
+width : 50px;	
+}
+.posicaolinha2 .div51{
+margin-left: 0px;	
+height: 110px;
+width : 50px;	
+}
+.posicaolinha2 .div52{
+margin-left: 0px;	
+height: 0px;
+width : 50px;	
+}
+
+.posicaolinha2 .div6{
+margin-left: 0px;	
+height: 130px;
+width : 50px;	
+}
+.posicaolinha2 .div61{
+margin-left: 0px;	
+height: 110px;
+width : 50px;	
+}
+.posicaolinha2 .div62{
+margin-left: 0px;	
+height: 0px;
+width : 50px;	
+}
+.font5{
+font-size: 7px;
+	} 
+.font6{
+font-size: 7px;
+	}
+.body{ 
+		overflow: hidden;
+		background-attachment: scroll;
+        background-position: center; 
+        background-position-x: -90px;
+        background-position-y: -20px;
+        background-image: url('https://cdn.rawgit.com/diegofaria1/IOT/master/ADM_PLANTA.png');
+        background-repeat: no-repeat; 
+        background-size: 465px 300px;
+    }
+}
+
+@media screen and (max-width: 1200px) and (min-width: 1px) and (orientation: landscape){
+
+#title {
+    width:auto;
+    margin-left: 10px;
+}
+
+#imagem {
+	height: 20px;
+    width: 140px;
+}
+
+
+div p{
+	display:none;
+}
+
+
+.posicaogrid {height: 235px; margin-top: 10px;}
+.posicaolinha {height: 80px; margin-left: 25px; margin-right: 10px;}
+.posicaolinha2 {height: 155px; margin-left: 25px; margin-right: 10px;}
+.div {height: 130px; }
+.divinterna {width: auto; height: 65px;}
+
+.posicaolinha .div1{
+height: 80px;
+width : 70px;	
+}
+
+.posicaolinha .div2{
+height: 80px;
+width : 65px;	
+}
+
+.posicaolinha .div3{
+height: 80px;
+width : 65px;
+}
+
+.posicaolinha .div4{
+height: 80px;
+width : 65px;	
+}
+
+.posicaolinha .div5{
+height: 80px;
+width : 60px;	
+}
+
+.posicaolinha .div6{
+height: 80px;
+width : 70px;	
+}
+
+/* posicaolinha2 divs*/
+
+.posicaolinha2 .div1{
+height: 155px;
+width : 70px;	
+}
+.posicaolinha2 .div2{
+height: 155px;
+width : 65px;	
+}
+.posicaolinha2 .div3{
+height: 155px;
+width : 60px;	
+}
+.posicaolinha2 .div4{
+height: 155px;
+width : 60px;	
+}
+.posicaolinha2 .div5{
+margin-left: 0px;	
+height: 155px;
+width : 70px;	
+}
+.posicaolinha2 .div51{
+margin-left: 0px;	
+height: 130px;
+width : 70px;	
+}
+.posicaolinha2 .div52{
+margin-left: 0px;	
+height: 0px;
+width : 70px;	
+}
+.posicaolinha2 .div6{
+margin-left: 0px;	
+height: 155px;
+width : 70px;	
+}
+.posicaolinha2 .div61{
+margin-left: 0px;	
+height: 130px;
+width : 70px;	
+}
+.posicaolinha2 .div62{
+margin-left: 0px;	
+height: 0px;
+width : 70px;	
+}
+.font5{
+font-size: 8px;
+	} 
+.font6{
+font-size: 8px;
+	}
+
+.body{ 
+		overflow: hidden;
+		background-attachment: scroll;
+        background-position: center; 
+        background-position-x: -100px;
+        background-position-y: -50px;
+        background-image: url('https://cdn.rawgit.com/diegofaria1/IOT/master/ADM_PLANTA.png');
+        background-repeat: no-repeat; 
+        background-size: 650px;
+    }
+
+}
+
+@media screen and (min-width: 1200px) {
+
+#title {
+    width:auto;
+    font-size: 30px; 
+    margin-left: 20px;
+}
+
+#imagem {
+	height: 41px;
+    width: 235px;
+}
+
+
+div p{
+	display:none;
+}
+
+.posicaogrid {height: 615px; margin-top: 15px;}
+.posicaolinha {bottom: 10px 50px; margin-left: 5px; margin-right: 60px;  height: 200px;}
+.posicaolinha2 {height: 410px; bottom: 10px 50px;margin-left: 5px; margin-right: 60px;}
+.div { width: 80%; height: 300px; }
+.divinterna {width: auto; height: 160px;}
+
+.posicaolinha .div1{
+height: 200px;
+width : 175px;	
+}
+
+.posicaolinha .div2{
+height: 200px;
+width : 170px;		
+}
+
+.posicaolinha .div3{
+height: 200px;
+width : 175px;	
+}
+
+.posicaolinha .div4{
+height: 200px;
+width : 165px;	
+}
+
+.posicaolinha .div5{
+height: 200px;
+width : 160px;	
+}
+
+.posicaolinha .div6{
+height: 200px;
+width : 185px;		
+}
+
+/* posicaolinha2 divs*/
+
+.posicaolinha2 .div1{
+height: 410px;
+width : 175px;	
+}
+.posicaolinha2 .div2{
+height: 410px;
+width : 170px;		
+}
+.posicaolinha2 .div3{
+height: 410px;
+width : 165px;	
+}
+.posicaolinha2 .div4{
+height: 410px;
+width : 150px;		
+}
+.posicaolinha2 .div5{
+height: 410px;
+width : 185px;		
+}
+.posicaolinha2 .div51{
+margin-left: 0px;	
+height: 380px;
+width : 185px;	
+}
+.posicaolinha2 .div52{
+margin-left: 0px;	
+height: 0px;
+width : 185px;	
+}
+.posicaolinha2 .div6{
+margin-left: 0px;	
+height: 410px;
+width : 185px;		
+}
+.posicaolinha2 .div61{
+margin-left: 0px;	
+height: 380px;
+width : 185px;	
+}
+.posicaolinha2 .div62{
+margin-left: 0px;	
+height: 0px;
+width : 185px;	
+}
+.font5{
+font-size: 15px;
+	} 
+.font6{
+font-size: 15px;
+	}
+
+.body { 
+		overflow: hidden;
+		background-attachment: scroll;
+        background-position: center; 
+        background-position-x: -325px;
+        background-position-y: -130px;
+        background-image: url('https://cdn.rawgit.com/diegofaria1/IOT/master/ADM_PLANTA.png');
+        background-repeat: no-repeat; 
+        background-size: 1690px;
+    }
+
+}
